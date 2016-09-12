@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "req_msg": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "xiaojun.sun086@gmail.com",
+    "longName": "FinalProjV2",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "FinalProjV2",
+    "uuid": "6c3ef8d9-d835-4127-8486-d69aed6b470a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
